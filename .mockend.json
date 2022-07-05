@@ -1,22 +1,8 @@
 {
   "Test": {
     [
-      {
-        "name": "Saran",
-        "email": "saran@gmail.com"
-      },
-      {
-        "name": "Saran1",
-        "email": "saran@gmail.com"
-      },
-      {
-        "name": "Saran2",
-        "email": "saran@gmail.com"
-      },
-      {
-        "name": "Saran3",
-        "email": "saran@gmail.com"
-      }
+      "test1",
+      "test2"
     ]
   }
  }
